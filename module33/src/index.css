@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;   /* horizontal center */
+  align-items: flex-start;   /* keep content from sticking to middle vertically */
+  min-height: 100vh;
+}
