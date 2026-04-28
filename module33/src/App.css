@@ -1,5 +1,6 @@
 .app {
   width: 100%;
-  max-width: 1200px;   /* controls how wide your content is */
+  max-width: 1200px;
   padding: 20px;
+  margin: 0 auto;
 }

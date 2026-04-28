@@ -7,11 +7,11 @@ function App() {
     .then(res => res.json())
   return (
     <>
-    <h3>Countries</h3>
-      <Suspense fallback={<h4>Countries are loading...</h4>}>
-        <Flags flags={flags}></Flags>
-      </Suspense>
-
+      <div className='app'>
+        <Suspense fallback={<h4>Countries are loading...</h4>}>
+          <Flags flags={flags}></Flags>
+        </Suspense>
+      </div>
     </>
   )
 }

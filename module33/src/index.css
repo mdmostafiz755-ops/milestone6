@@ -7,6 +7,6 @@
 body {
   display: flex;
   justify-content: center;   /* horizontal center */
-  align-items: flex-start;   /* keep content from sticking to middle vertically */
+    /* keep content from sticking to middle vertically */
   min-height: 100vh;
 }
