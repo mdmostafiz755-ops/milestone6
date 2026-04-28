@@ -1,0 +1,6 @@
+?sort=desc&color=blue
+
+-start with '?' then sort=value separated by '&' then 
+-again color=value and gies on
+
+example: www.placeholder/user?sort=desc&color=blue
