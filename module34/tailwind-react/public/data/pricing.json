@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "name": "Starter",
+    "price": 19.99,
+    "description": "Basic gym access for beginners just starting their fitness journey.",
+    "features": [
+      "Gym Floor Access",
+      "Cardio Equipment",
+      "Locker Room",
+      "Free Weights"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Basic",
+    "price": 34.99,
+    "description": "Essential fitness package with added group class benefits.",
+    "features": [
+      "Gym Floor Access",
+      "Cardio Equipment",
+      "Locker Room",
+      "Free Weights",
+      "Group Classes"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Standard",
+    "price": 54.99,
+    "description": "A well-rounded plan for regular gym-goers with trainer support.",
+    "features": [
+      "Gym Floor Access",
+      "Cardio Equipment",
+      "Locker Room",
+      "Free Weights",
+      "Group Classes",
+      "2 Personal Trainer Sessions",
+      "Sauna Access"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Premium",
+    "price": 84.99,
+    "description": "Advanced plan for dedicated athletes with nutrition and priority access.",
+    "features": [
+      "Gym Floor Access",
+      "Cardio Equipment",
+      "Locker Room",
+      "Free Weights",
+      "Unlimited Group Classes",
+      "8 Personal Trainer Sessions",
+      "Sauna & Steam Room",
+      "Nutrition Consultation",
+      "24/7 Access"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Elite",
+    "price": 124.99,
+    "description": "All-inclusive VIP membership with unlimited perks and wellness coaching.",
+    "features": [
+      "Gym Floor Access",
+      "Cardio Equipment",
+      "Private Locker",
+      "Free Weights",
+      "Unlimited Group Classes",
+      "Unlimited Personal Training",
+      "Sauna & Steam Room",
+      "Weekly Nutrition Check-in",
+      "24/7 Access",
+      "Towel & Amenity Service",
+      "Dedicated Wellness Coach"
+    ]
+  }
+]

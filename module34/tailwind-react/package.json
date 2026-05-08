@@ -12,11 +12,13 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.2.4",
     "@vitejs/plugin-react": "^4.7.0",
+    "axios": "^1.16.0",
     "daisyui": "^5.5.19",
     "lucide": "^1.3.0",
     "lucide-react": "^1.14.0",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
+    "recharts": "^3.8.1",
     "tailwindcss": "^4.2.4",
     "vite": "^6.4.2"
   },
